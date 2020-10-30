@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">mascotas_mvp</string>
+    <string name="nombre">Adrián Álvarez</string>
+    <string name="telefono">12345687</string>
+    <string name="email">adrian@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="plikes">0 Likes</string>
+    <string name="likes">Likes</string>
+    <string name="titulo_paisaje_manana">Paisaje Campo Mañana</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
